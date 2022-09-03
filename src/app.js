@@ -71,3 +71,5 @@ document
 document
   .querySelector("#data-nextbtn")
   .addEventListener("click", nextpage, false);
+
+document.addEventListener("DOMContentLoaded", rendertable1);
